@@ -6,5 +6,7 @@
 	"lastModifiedTime" : null,
 	"maxNrOfInstances" : 0,
 	"contentInstancesReference" : "",
-	"subscriptionReference" : ""
+	"subscriptionReference" : "",
+	"ruleReference: : "",
+	"dataTypeReference" : ""
 }
