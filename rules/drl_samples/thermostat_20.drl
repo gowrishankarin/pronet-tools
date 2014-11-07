@@ -1,0 +1,55 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.HashMap;
+import java.util.ArrayList;
+import com.prodapt.m2m.core.PIP.utils.Consequence;
+
+rule "If temperature is greater than 20, alert apoc-0"
+salience 5
+when 
+	$consequence : Consequence()
+	$map : HashMap(this["value"] > 20)
+then
+	ArrayList<Integer> apocIndices = new java.util.ArrayList<Integer>();
+	apocIndices.add(0);
+	$consequence.setConsequence(apocIndices);
+	System.out.println("Greater than 20");
+end
+
+rule "If temperature is greater than 20 and less than 30, alert apoc-1"
+salience 4
+when 
+	$consequence : Consequence()
+	$map : HashMap(this["value"] > 20 && this["value"] < 30)
+then
+	ArrayList<Integer> apocIndices = (ArrayList<Integer>)$consequence.getConsequence();
+	apocIndices.add(1);
+	$consequence.setConsequence(apocIndices);
+	System.out.println("Greater than 20");
+	System.out.println("okay" +$consequence.getConsequence());
+end
+
+rule "If temperature is greater than 30 and less than 40, alert apoc-2"
+salience 3
+when 
+	$consequence : Consequence()
+	$map : HashMap(this["value"] > 30 && this["value"] < 40)
+then
+	ArrayList<Integer> apocIndices = (ArrayList<Integer>)$consequence.getConsequence();
+	apocIndices.add(2);
+	$consequence.setConsequence(apocIndices);
+	System.out.println("Greater than 30");
+end
+
+rule "If temperature is greater than 60, alert all apocs-2"
+salience 2
+when 
+	$consequence : Consequence()
+	$map : HashMap(this["value"] > 40 && this["value"] < 50)
+then
+	ArrayList<Integer> apocIndices = (ArrayList<Integer>)$consequence.getConsequence();
+	apocIndices.add(3);
+	$consequence.setConsequence(apocIndices);
+	System.out.println("Greater than 40");
+end
+

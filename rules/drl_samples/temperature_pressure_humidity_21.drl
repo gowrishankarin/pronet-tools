@@ -1,0 +1,6 @@
+package com.prodapt.m2m.core.PIP;
+
+import com.prodapt.m2m.core.PIP.utils.Consequence;
+
+int[] apocIndices = new Integer[1];
+

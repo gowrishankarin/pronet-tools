@@ -1,0 +1,13 @@
+{
+    "creationTime": null,
+    "lastModifiedTime": null,
+    "type": 0,
+    "dataTypeId": "",
+    "accessRightID": "ed420f59-69ac-4320-a0ef-e691a469aa93",
+    "searchStrings": ["ETSI.ObjectType/ETSI.AN_APP",
+        "ETSI.ObjectTechnology/ZigBee.ZigBee_1_0",
+        "ETSI.InterworkingProxyID/myNetwork",
+        "ETSI.NetworkID/myNetwork",
+        "ETSI.NodeID/myDevice"],
+    "definition": "http://localhost:8081"
+}

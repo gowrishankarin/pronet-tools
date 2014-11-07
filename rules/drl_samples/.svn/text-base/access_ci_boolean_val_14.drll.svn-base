@@ -1,0 +1,12 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.Map;
+import com.prodapt.m2m.core.PIP.utils.DataAccess;
+import function com.prodapt.m2m.core.PIP.utils.DataAccess.getInstance;
+
+rule "Get Content Instance Content Value as boolean"
+when
+    eval( true );
+then
+    System.out.println("Content value of a Content Instance: " + getInstance().getValueAsBoolean("PCI_3858dc6c-64ba-49d7-a872-4fe1b118d049", "value"));
+end

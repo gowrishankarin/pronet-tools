@@ -1,0 +1,12 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.Map;
+import com.prodapt.m2m.core.PIP.utils.Consequence;
+
+rule "Access Consequence Object"
+when
+	$consequence : Consequence()
+	eval( true );
+then
+	System.out.println("Consequence is accessed, default value: " + $consequence.getConsequence());
+end

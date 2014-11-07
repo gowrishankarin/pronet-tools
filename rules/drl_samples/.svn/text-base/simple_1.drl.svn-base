@@ -1,0 +1,11 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.Map;
+import function com.prodapt.m2m.core.PIP.utils.DataAccess.getInstance;
+ 
+rule "Is it working"
+when 
+	eval( true );
+then
+	System.out.println("Its working");
+end

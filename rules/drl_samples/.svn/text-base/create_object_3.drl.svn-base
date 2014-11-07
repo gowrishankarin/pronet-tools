@@ -1,0 +1,13 @@
+package com.prodapt.m2m.core.PIP;
+dialect "java"
+
+import java.lang.String;
+
+rule "Create an object"
+when
+	eval(true);
+   
+then
+	String name = new String("PRONET");
+   	System.out.println("name:" + name);
+end

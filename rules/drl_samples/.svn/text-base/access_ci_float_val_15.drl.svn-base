@@ -1,0 +1,10 @@
+package com.prodapt.m2m.core.PIP;
+
+import function com.prodapt.m2m.core.PIP.utils.DataAccess.getInstance;
+
+rule "Get Content Instance Content Value as decimal"
+when
+    eval( true );
+then
+    System.out.println("Content value of a Content Instance: " + getInstance().getValueAsDecimal("PCI_a1bb3fe2-a53e-4eba-a24d-ae247b18f9db", "value"));
+end

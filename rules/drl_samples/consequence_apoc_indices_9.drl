@@ -1,0 +1,19 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.ArrayList;
+import com.prodapt.m2m.core.PIP.utils.Consequence;
+
+rule "Create array of Integer as consequence"
+when
+	$consequence : Consequence()
+	eval( true );
+then
+	ArrayList<Integer> apocIndices = new ArrayList<Integer>();
+	apocIndices.add(1);
+	apocIndices.add(2);
+	apocIndices.add(3);
+	apocIndices.add(4);
+	
+	$consequence.setConsequence(apocIndices);
+    System.out.println("Array of Integer as consequence: " + $consequence.getConsequence());
+end

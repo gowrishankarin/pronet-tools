@@ -1,0 +1,19 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.ArrayList;
+import com.prodapt.m2m.core.PIP.utils.Consequence;
+import function com.prodapt.m2m.core.PIP.utils.DataAccess.getInstance;
+
+rule "Accessing Static Function"
+when
+    $consequence : Consequence()
+	eval( true );
+then
+	ArrayList<String> arrayOfStrings = new ArrayList<String>();
+	arrayOfStrings.add("http://m2m.prodapt.com");
+	arrayOfStrings.add("http://www.pronet.com");
+	arrayOfStrings.add("getInstance().check()");
+	arrayOfStrings.add("m2m.books.com");
+
+    System.out.println("Message from a static function Data Access: " + getInstance().check());
+end

@@ -1,0 +1,14 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.Map;
+import com.prodapt.m2m.core.PIP.constants.RuleType;
+
+dialect "java"
+ 
+rule "Access a Static Variable"
+when
+	
+	eval( true );
+then
+	System.out.println("Its working" + RuleType.DSL);
+end

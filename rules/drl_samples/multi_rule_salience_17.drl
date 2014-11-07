@@ -1,0 +1,41 @@
+package com.prodapt.m2m.core.PIP;
+
+rule "Multi Rule 1"
+salience 1
+when 
+	eval( true );
+then
+	System.out.println("Multi Rule 1");
+end
+
+rule "Multi Rule 5"
+salience 5
+when 
+	eval( true );
+then
+	System.out.println("Multi Rule 5");
+end
+
+rule "Multi Rule 2"
+salience 2
+when 
+	eval( true );
+then
+	System.out.println("Multi Rule 2");
+end
+
+rule "Multi Rule 4"
+salience 4
+when 
+	eval( true );
+then
+	System.out.println("Multi Rule 4");
+end
+
+rule "Multi Rule 3"
+salience 3
+when 
+	eval( true );
+then
+	System.out.println("Multi Rule 3");
+end

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data
+END
+application-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/application-create.dat
+END
+applications-update.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/applications-update.dat
+END
+pronet-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/pronet-create.dat
+END
+rule-create.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/rule-create.json
+END
+datatype-create.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/datatype-create.json
+END
+command-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/command-create.dat
+END
+notificationchannel-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/notificationchannel-create.dat
+END
+scl-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/scl-create.dat
+END
+container-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/container-create.dat
+END
+subscription-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/subscription-create.dat
+END
+group-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/group-create.dat
+END
+m2mpoc-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/m2mpoc-create.dat
+END
+attacheddevice-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/attacheddevice-create.dat
+END
+mgmtobj-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/mgmtobj-create.dat
+END
+contentinstance-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/contentinstance-create.dat
+END
+accessright-create.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/data/accessright-create.dat
+END

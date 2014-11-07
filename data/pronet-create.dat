@@ -1,0 +1,15 @@
+{
+    "key": "63527a0b-7c15-4693-94dd-a0815244507b",
+    "accessRightID": "ed420f59-69ac-4320-a0ef-e691a469aa93",
+    "searchStrings": null,
+    "creationTime": 1383881656281,
+    "lastModifiedTime": 1383881656281,
+    "aPocHandling": -1,
+    "applicationsReference": "http://m2m.prodapt.com/pronet/applications",
+    "containersReference": "http://m2m.prodapt.com/pronet/containersReference",
+    "groupsReference": "http://m2m.prodapt.com/pronet/groupsReference",
+    "accessRightsReference": "http://m2m.prodapt.com/pronet/accessrights",
+    "subscriptionsReference": "http://m2m.prodapt.com/pronet/subscriptions",
+    "discoveryReference": "http://m2m.prodapt.com/pronet/discovery",
+    "sclsReference":"http://m2m.prodapt.com/pronet/scls"
+}

@@ -1,0 +1,20 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.ArrayList;
+import com.prodapt.m2m.core.PIP.utils.Consequence;
+
+rule "Create array of strings as consequence"
+when
+	$consequence : Consequence()
+	eval( true );
+then
+	ArrayList<String> pocIndices = new ArrayList<String>();
+	pocIndices.add("http://m2m.prodapt.com");
+	pocIndices.add("http://m2m.pronet.com");
+	pocIndices.add("");
+	pocIndices.add("http://m2m.dudes.com");
+	
+	
+    $consequence.setConsequence(pocIndices);
+    System.out.println("Array of strings as consequence: " + $consequence.getConsequence());
+end

@@ -1,0 +1,12 @@
+{
+  	"id" : "",
+	"expirationTime" :0,
+	"minimalTimeBetweenNotifications" :0,
+	"delayTolerance" :0,
+	"creationTime" :null, 
+	"lastModifiedTime" :null,
+	"filterCriteria" :"",
+	"subscriptionType" :1,
+	"contact" :""
+	
+}

@@ -1,0 +1,12 @@
+package com.prodapt.m2m.core.PIP;
+dialect "java" 
+
+import java.util.HashMap;
+import function com.prodapt.m2m.core.PIP.utils.DataAccess.getInstance;
+
+rule "Access static function"
+when
+   	$map : HashMap(this["value"] >= 80)
+then
+	System.out.println("Access:" +getInstance().accessData());
+end

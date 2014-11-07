@@ -1,0 +1,21 @@
+{
+    "ruleId": "",
+    "accessRightID": "",
+    "creationTime": null,
+    "lastModifiedTime": null,
+    "type": 0,
+    "subType": 0,
+    "actionType": 0,
+    "searchStrings": ["ETSI.ObjectType/ETSI.AN_APP",
+        "ETSI.ObjectTechnology/ZigBee.ZigBee_1_0",
+        "ETSI.InterworkingProxyID/myNetwork",
+        "ETSI.NetworkID/myNetwork",
+        "ETSI.NodeID/myDevice"],
+    "consequenceType": 0,
+    "contentType" : "",
+    "rule" : "",
+    "compiled" : false,
+    "deployed" : false,
+    "status" : 0,
+    "message" :""
+}

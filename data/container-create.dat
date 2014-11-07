@@ -1,0 +1,14 @@
+{
+	"containerId" : "",
+	"accessRightID" : "",
+	"searchStrings" : [],
+	"creationTime" : null,
+	"lastModifiedTime" : null,
+	"maxNrOfInstances" : 0,
+	"contentInstancesReference" : "",
+	"subscriptionsReference" : "",
+	"expirationTime":null,
+	"announceTo":"",
+	"maxByteSize":0,
+	"maxInstanceAge":""
+}

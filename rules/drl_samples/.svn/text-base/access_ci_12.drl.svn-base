@@ -1,0 +1,10 @@
+package com.prodapt.m2m.core.PIP;
+
+import function com.prodapt.m2m.core.PIP.utils.DataAccess.getInstance;
+
+rule "Get Content Instance Content as HashMap"
+when
+    eval( true );
+then
+    System.out.println("Get Content Instance Content as HashMap: " + getInstance().getContentAsMap("PCI_2d02bea4-1d9e-4c92-8067-4d52a2ece96a"));
+end

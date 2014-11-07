@@ -1,0 +1,13 @@
+package com.prodapt.m2m.core.PIP;
+
+import java.util.Map;
+import com.prodapt.m2m.core.PIP.utils.Consequence;
+
+rule "Modify Consequence Object"
+when
+	$consequence : Consequence()
+	eval( true );
+then
+    $consequence.setConsequence(new Boolean(false));
+	System.out.println("Consequence is modified, new value: " + $consequence.getConsequence());
+end

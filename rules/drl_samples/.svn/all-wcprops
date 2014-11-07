@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples
+END
+acquire_class_instance_6.drl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/acquire_class_instance_6.drl
+END
+access_variable_2.drl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/access_variable_2.drl
+END
+hashmap_evaluate_4.drl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/hashmap_evaluate_4.drl
+END
+multi_rule_salience_17.drl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/multi_rule_salience_17.drl
+END
+thermostat_20.drl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/thermostat_20.drl
+END
+dataaccess_11.drl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/dataaccess_11.drl
+END
+access_ci_boolean_val_14.drll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/access_ci_boolean_val_14.drll
+END
+consequence_7.drl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/consequence_7.drl
+END
+consequence_apoc_indices_9.drl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/consequence_apoc_indices_9.drl
+END
+hashmap_consequence_Evaluate_22.drl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/hashmap_consequence_Evaluate_22.drl
+END
+temperature_pressure_humidity_21.drl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/temperature_pressure_humidity_21.drl
+END
+consequence_poc_list_10.drl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/consequence_poc_list_10.drl
+END
+multi_rule_consequences_19.drl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/multi_rule_consequences_19.drl
+END
+access_static_func_5.drl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/access_static_func_5.drl
+END
+access_ci_float_val_15.drl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/access_ci_float_val_15.drl
+END
+access_ci_content_13.drl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/access_ci_content_13.drl
+END
+simple_1.drl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Pronet/!svn/ver/219/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/simple_1.drl
+END
+multi_rules_16.drl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/multi_rules_16.drl
+END
+set_consequence_8.drl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/set_consequence_8.drl
+END
+create_object_3.drl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/create_object_3.drl
+END
+global_variable_18.drl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Pronet/!svn/ver/248/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/global_variable_18.drl
+END
+access_ci_12.drl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Pronet/!svn/ver/250/m2m-net/branches/Pronet1.2/m2m-net/test/rules/drl_samples/access_ci_12.drl
+END

@@ -1,0 +1,13 @@
+package com.prodapt.m2m.core.PIP;
+dialect "java" 
+
+import java.util.HashMap;
+import function com.prodapt.m2m.core.PIP.utils.DataAccess.getInstance;
+
+rule "Acquire class instance through session and call a member function"
+when
+	$map : HashMap(this["value"] == getInstance().getValueAsString("PCI_17f76d86-f735-4ff8-bed4-96e253d8c1d8", "value"))
+then
+	System.out.println("okay");
+	
+end

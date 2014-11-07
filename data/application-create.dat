@@ -1,0 +1,21 @@
+{
+    "creationTime": null,
+    "lastModifiedTime": null,
+    "containersReference": "",
+    "groupsReference": "",
+    "accessRightsReference": "",
+    "notificationChannelsReference": "",
+    "appId": "63527a0b-7c15-4693-94dd-a0815244507b",
+    "accessRightID": "ed420f59-69ac-4320-a0ef-e691a469aa93",
+    "searchStrings": ["ETSI.ObjectType/ETSI.AN_APP",
+        "ETSI.ObjectTechnology/ZigBee.ZigBee_1_0",
+        "ETSI.InterworkingProxyID/myNetwork",
+        "ETSI.NetworkID/myNetwork",
+        "ETSI.NodeID/myDevice"],
+    "aPoC": "http://localhost:8081",
+    "aPoCPaths": ["http://localhost:8082"],
+    "subscriptionsReference":"",
+    "expirationTime":null,
+    "announceTo":"",
+    "locrequester":""
+}

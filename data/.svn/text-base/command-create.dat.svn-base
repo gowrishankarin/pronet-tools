@@ -1,0 +1,11 @@
+{
+    "commandId": "com-CONTAINER_6d99f3ae-3344-44c2-8a11-3e941c8a006d",
+    "creationTime":null,
+    "lastModifiedTime": null,
+    "commandType": null,
+    "execEnable": false,
+	"description": "hello",
+	"execInstancesReference" : "",
+	"subscriptionsReference" : "",
+	"command" : 1
+}

@@ -1,0 +1,11 @@
+package com.prodapt.m2m.na;
+dialect "java" 
+
+import java.util.HashMap;
+
+rule "Evaluate HashMap elements"
+when
+   	$map : HashMap(this["value"] == 22 && this["temperature"] == 90)
+then
+	System.out.println("HashMap Evaluated");
+end
